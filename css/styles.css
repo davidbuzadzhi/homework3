@@ -43,9 +43,6 @@
   width: 420px;
   margin-bottom: 130px;
 }
-.list li:last-child {
-  margin-bottom: 0;
-}
 .life {
   margin-right: 60px;
 }
@@ -62,11 +59,13 @@ p {
   font-family: "Playfair Display", serif;
   color: gray;
   font-size: 14px;
+  margin-bottom: 30px;
 }
 img {
   margin-bottom: 30px;
 }
 h2 {
+  font-size: 30px;
   font-family: "Playfair Display", serif;
   color: rgb(94, 94, 94);
   margin-bottom: 30px;
